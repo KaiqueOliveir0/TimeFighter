@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Time Fighter</string>
+    <string name="suaPontuacao">Sua pontuação é: %1$d</string>
+    <string name="tempoRestante">Tempo Restante: %1$d</string>
+    <string name="mePressione">Pressione!</string>
+    <string name="GameOver">Seu tempo acabou! Sua pontuação foi: %1$d</string>
+</resources>
